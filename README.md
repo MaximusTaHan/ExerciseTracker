@@ -49,7 +49,7 @@ And an application for consuming the API
 
 
 
-### I would like to thank Pablo and the great community he is building over on Discord and the well crafted Projects he provides through his website
+### I would like to thank Pablo and the great community, The C# Academy, he is building over on Discord and the well crafted Projects he provides through his website
 Website: https://www.thecsharpacademy.com/
 
 ### Resources and links
